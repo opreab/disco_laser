@@ -1,6 +1,7 @@
 # rave_laser
 Laser lights module for the party raver
 * [Design/Resources](design.md)
+
 ## Features
 ### Implemented
 None
